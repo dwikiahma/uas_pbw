@@ -1,0 +1,30 @@
+---------------------------------------------------------------
+
+NAMA	: Dwiki Ahma Maulana
+
+NIM	: A11.2017.10751
+
+PRODI	: TI
+
+KELP	: A11.4309
+
+MAKUL	: Pemrograman Berbasis Web
+
+---------------------------------------------------------------
+
+
+SEMUA sYARAT UNTUK PENILAIAN UAS ADA DI MENU INFO WISATA JATIM
+
+
+1. html 		: ok
+2. css  		: ok
+3. js   		: ok
+4. function & event 	: ok (kebanyakan di menu info wisata)
+5. ajax 		: ok (di menu info wisata)
+6. dom			: ok (di menu info wisata)
+7. json / xml		: ok (di menu info wisata)
+8. testing dan debug    : ok
+9. gitlab dan hosting   : ok
+10. kreatifas		: ok
+
+---------------------------------------------------------------
